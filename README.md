@@ -11,7 +11,7 @@
 
 
 
-- :hammer_and_pick:C++ / Linux/Deep learning
+- :hammer_and_pick: C++ / Linux Core/Deep learning
 
 -   :seedling: I’m currently working on Qianxin.
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new)!
